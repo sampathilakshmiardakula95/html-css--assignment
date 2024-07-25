@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.container {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 80px;
+    background-image: url('https://assets.architecturaldigest.in/photos/600844b6eebcfd50ede87893/16:9/w_1920,c_limit/Food-trends-dining-2021-covid-1366x768.jpg');
+    /* Add your background image URL */
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.icon-img {
+    height: 20px;
+    width: 20px;
+    border-radius: 80px;
+}
+
+.icon-img1 {
+    height: 30px;
+    width: 40px;
+    border-radius: 80px;
+
+}
+
+.transbox {
+    margin: 30px;
+    padding: 0px;
+    background-color: red;
+    border: 1px solid black;
+    opacity: 0.6;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.transbox-content-head {
+    margin: 5%;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 40px;
+}
+
+.transbox-content {
+    margin: 5%;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+nav {
+    background-color: white;
+    color: pink;
+    text-align: center;
+    padding: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    margin: 0 20px;
+}
+
+nav a:hover {
+    color: #ffd700;
+}
+
+footer {
+    background-image: linear-gradient(to right, #fa05c9, #fafa05);
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    height: 80px;
+}
+
+
+.order-container {
+    background-image: linear-gradient(to right, #fa05c9, #fafa05);
+}
